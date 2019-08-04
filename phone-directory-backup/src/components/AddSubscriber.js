@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+
 import { contacts } from "../mockApis/contacts";
 import Header from "./Header";
 import "../styles/styles.css";
