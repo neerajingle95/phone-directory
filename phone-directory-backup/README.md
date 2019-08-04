@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Packages
 
-react-dom
+react-dom,
 react-router-dom
 
 ## Libraries
