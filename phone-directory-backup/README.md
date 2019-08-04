@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Packages
+
+react-dom
+react-router-dom
+
+## Libraries
+
+Semantic UI
+
 ## Available Scripts
 
 In the project directory, you can run:
